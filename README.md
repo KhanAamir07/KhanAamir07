@@ -105,14 +105,6 @@
 
 [![Aamir's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhanAamir07&theme=tokyo-night)](https://github.com/KhanAamir07)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KhanAamir07&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanAamir07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanAamir07&theme=tokyonight&hide_border=true" />
-</p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanAamir07&layout=compact&theme=tokyonight&cache_seconds=1800" /> </p> 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhanAamir07&show_icons=true&theme=tokyonight&cache_seconds=1800" /> </p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhanAamir07&theme=tokyonight&cache_seconds=1800" /> </p>
