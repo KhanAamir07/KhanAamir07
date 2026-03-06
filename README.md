@@ -6,16 +6,14 @@
 <h3 align="center">A passionate Full Stack Java & Python Developer from India 🇮🇳</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=khanaamir07&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=khanaamir07&label=Profile%20views&color=0e75b6&style=flat" alt="khanaamir07" />
 </p>
 
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=khanaamir07&theme=darkhub"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khanaamir07" alt="khanaamir07" />
+  </a>
 </p>
-
----
-
-## 🚀 About Me
 
 - 🔭 I’m currently working on **Spring Boot REST API based E-commerce Application 🛒**
 
@@ -28,106 +26,66 @@
 - 👨‍💻 All of my projects are available at  
   **https://KhanAamir07.github.io/Personal-Portfolio/**
 
+- 💬 Ask me about  
+  **Java, Collection, JDBC, Servlets, JSP, Hibernate, Spring MVC, Spring Security, Spring Boot, REST API, Python, Numpy, Pandas, OpenCV, Django, Flask, FastAPI, MySQL, PostgreSQL, Oracle & Web Development**
+
 - 📫 How to reach me  
   **aamirkhan91613216@gmail.com**
+
+- 📄 Know about my experiences  
+  **https://drive.google.com/file/d/1FO5-FWMnda2LyIE-e0-qCDnJmX6DTZYu/view**
 
 - ⚡ Fun fact  
   **I turn ideas into real-world projects and love solving problems 🚀**
 
 ---
 
-# 💻 Technical Skills
+<h3 align="left">Connect with me:</h3>
 
-### Programming Languages
-Java, Python, C, C++
+<p align="left">
+<a href="https://twitter.com/aamirkhan490233" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
 
-### Web Technologies
-JSP, Servlet, HTML, CSS, JavaScript
+<a href="https://www.linkedin.com/in/khanaamir07" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 
-### Frameworks & Libraries
-JDBC, Hibernate, Spring MVC, Spring Boot, REST API, Django, NumPy, Pandas
+<a href="https://www.facebook.com/aamir.khan.883849" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
 
-### Databases
-MySQL, PostgreSQL, MSSQL, Oracle DBA
-
-### Tools / IDEs
-Eclipse, NetBeans, STS, VS Code, Notepad++, Google Colab, Postman
-
-### Server
-Apache Tomcat
-
-### Version Control
-Git, GitHub
+<a href="https://www.instagram.com/khan_aamir7411" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-# 🌐 Connect with me
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 
-<a href="https://twitter.com/aamirkhan490233">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
-</a>
-
-<a href="https://www.linkedin.com/in/khanaamir07">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-
-<a href="https://www.facebook.com/aamir.khan.883849">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
-</a>
-
-<a href="https://www.instagram.com/khan_aamir7411">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 
 </p>
 
 ---
 
-# 🛠 Languages and Tools
+<h3 align="left">GitHub Stats:</h3>
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanaamir07&show_icons=true&locale=en&layout=compact" />
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khanaamir07&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanaamir07&layout=compact&theme=tokyonight"/>
-
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanaamir07&show_icons=true&locale=en" />
 </p>
