@@ -103,7 +103,7 @@
 
 ---
 
-[![Aamir's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KhanAamir07&theme=tokyonight)](https://github.com/KhanAamir07)
+[![Aamir's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhanAamir07&theme=tokyo-night)](https://github.com/KhanAamir07)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhanAamir07&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></p>
 
