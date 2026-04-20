@@ -42,23 +42,24 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/aamirkhan490233" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+
+<a href="https://twitter.com/aamirkhan490233" target="blank" style="display:block; margin:8px 0;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /> Twitter
 </a>
 
-<a href="https://www.linkedin.com/in/khanaamir07" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/khanaamir07" target="blank" style="display:block; margin:8px 0;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /> LinkedIn
 </a>
 
-<a href="https://www.facebook.com/aamir.khan.883849" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<a href="https://www.facebook.com/aamir.khan.883849" target="blank" style="display:block; margin:8px 0;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /> Facebook
 </a>
 
-<a href="https://www.instagram.com/khan_aamir7411" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://www.instagram.com/khan_aamir7411" target="blank" style="display:block; margin:8px 0;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /> Instagram
 </a>
+
 </p>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
