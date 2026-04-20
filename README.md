@@ -47,19 +47,19 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="35" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/khanaamir07" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.facebook.com/aamir.khan.883849" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="35" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.instagram.com/khan_aamir7411" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
