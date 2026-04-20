@@ -43,20 +43,20 @@
 
 <p align="left">
 
-<a href="https://twitter.com/aamirkhan490233" target="blank" style="display:block; margin:8px 0;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /> Twitter
+<a href="https://twitter.com/aamirkhan490233" target="blank" style="display:block; margin:12px 0; text-decoration:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="35" />
 </a>
 
-<a href="https://www.linkedin.com/in/khanaamir07" target="blank" style="display:block; margin:8px 0;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /> LinkedIn
+<a href="https://www.linkedin.com/in/khanaamir07" target="blank" style="display:block; margin:12px 0; text-decoration:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" />
 </a>
 
-<a href="https://www.facebook.com/aamir.khan.883849" target="blank" style="display:block; margin:8px 0;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /> Facebook
+<a href="https://www.facebook.com/aamir.khan.883849" target="blank" style="display:block; margin:12px 0; text-decoration:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="35" />
 </a>
 
-<a href="https://www.instagram.com/khan_aamir7411" target="blank" style="display:block; margin:8px 0;">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /> Instagram
+<a href="https://www.instagram.com/khan_aamir7411" target="blank" style="display:block; margin:12px 0; text-decoration:none;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
 </a>
 
 </p>
