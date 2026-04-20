@@ -43,19 +43,25 @@
 
 <p align="left">
 
-<a href="https://twitter.com/aamirkhan490233" target="blank" style="display:block; margin:12px 0; text-decoration:none;">
+<a href="https://twitter.com/aamirkhan490233" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="35" />
 </a>
 
-<a href="https://www.linkedin.com/in/khanaamir07" target="blank" style="display:block; margin:12px 0; text-decoration:none;">
+<br><br>
+
+<a href="https://www.linkedin.com/in/khanaamir07" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" />
 </a>
 
-<a href="https://www.facebook.com/aamir.khan.883849" target="blank" style="display:block; margin:12px 0; text-decoration:none;">
+<br><br>
+
+<a href="https://www.facebook.com/aamir.khan.883849" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="35" />
 </a>
 
-<a href="https://www.instagram.com/khan_aamir7411" target="blank" style="display:block; margin:12px 0; text-decoration:none;">
+<br><br>
+
+<a href="https://www.instagram.com/khan_aamir7411" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="35" />
 </a>
 
