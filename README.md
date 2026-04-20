@@ -28,6 +28,9 @@
 - 👨‍💻 All of my projects are available at  
   **https://KhanAamir07.github.io/Personal-Portfolio/**
 
+  - 📄 My Resume  
+  **[Download Resume](https://drive.google.com/uc?export=download&id=11eZZx-h-cIECbIShsrCe-rL553RQs2yF)**
+
 - 📫 How to reach me  
   **aamirkhan91613216@gmail.com**
 
