@@ -165,8 +165,9 @@
 ---
 
 ## 📈 Activity Graph
-[![Aamir's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KhanAamir07&theme=tokyo-night)](https://github.com/KhanAamir07)
+## 📈 Activity Graph
 
+[![Aamir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhanAamir07&theme=github-compact)](https://github.com/KhanAamir07)
 ---
 
 ## 📊 GitHub Stats
