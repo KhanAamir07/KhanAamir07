@@ -182,7 +182,7 @@
 "Code is like humor. When you have to explain it, it’s bad."
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KhanAamir07&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy-delta-six.vercel.app/?username=KhanAamir07&theme=tokyonight&row=1&column=6" />
 </p>
 
 <p align="center">
